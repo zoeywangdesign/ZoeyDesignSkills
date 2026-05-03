@@ -1,0 +1,67 @@
+# ==============================
+# macOS 系统自动生成的垃圾文件（核心必忽略）
+# ==============================
+# 文件夹元数据文件（Mac 每个文件夹都会生成）
+**/.DS_Store
+# 系统隐藏的双重文件
+**/.AppleDouble
+# 系统启动项缓存
+**/.LSOverride
+# 自定义文件夹图标文件
+**/Icon\r
+# Spotlight 搜索缓存
+**/.Spotlight-V100
+# 废纸篓相关文件
+**/.Trashes
+# 压缩包解压后自动生成的垃圾文件夹
+**/__MACOSX
+# 桌面服务缓存
+**/.Desktop_Storage
+
+# ==============================
+# 常用编辑器/IDE 临时文件
+# ==============================
+# VS Code 工作区缓存
+.vscode/
+# JetBrains 系列编辑器（WebStorm/IDEA等）
+.idea/
+*.iml
+# Vim 编辑器临时文件
+*.swp
+*.swo
+.*.sw?
+# Sublime Text 临时文件
+*.sublime-workspace
+# 通用编辑器备份文件
+*.bak
+*.tmp
+
+# ==============================
+# 设计软件 临时文件（适配 Design Skill 场景）
+# ==============================
+# Sketch 设计稿缓存
+*.sketchc
+# Figma 本地临时文件
+.fig/
+# Affinity 设计软件缓存
+*.afdesign~
+*.afphoto~
+# Photoshop/Illustrator 临时文件
+*.psb
+*.ai~
+*.psd~
+
+# ==============================
+# 通用缓存/日志/冗余文件
+# ==============================
+# 系统临时文件
+*.temp
+# 日志文件
+*.log
+# 缓存目录
+.cache/
+# 系统错误报告
+**/crashlytics/
+# 无用的环境变量文件
+.env
+.env.local
