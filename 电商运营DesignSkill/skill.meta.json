@@ -1,0 +1,54 @@
+{
+  "name": "电商用户全生命周期运营 Design Skill",
+  "slug": "ecommerce-lifecycle-operations-design-skill",
+  "version": "1.0.0",
+  "language": "zh-CN",
+  "type": "design-skill",
+  "category": [
+    "e-commerce",
+    "user-lifecycle",
+    "operations-design",
+    "strategy"
+  ],
+  "summary": "用于将电商用户运营问题抽象为可复用的全生命周期运营设计框架，覆盖生命周期分阶段、用户迁移、触点协同、内容/供给/权益设计与数据反馈闭环。",
+  "audience": [
+    "策略设计师",
+    "体验设计师",
+    "产品经理",
+    "运营经理",
+    "增长团队"
+  ],
+  "inputs": [
+    "运营方案/PPT/PDF",
+    "用户增长或留存目标",
+    "链路说明",
+    "用户分层信息",
+    "触点与权益信息"
+  ],
+  "outputs": [
+    "通用设计原则",
+    "生命周期框架",
+    "链路拆解",
+    "用户分层策略",
+    "评审清单",
+    "Prompt模板"
+  ],
+  "files": {
+    "readme": "README.md",
+    "prompt": "prompt.md",
+    "checklist": "checklist.md",
+    "templates": "templates/",
+    "examples": "examples/"
+  },
+  "tags": [
+    "生命周期运营",
+    "用户分层",
+    "拉新",
+    "促活",
+    "留存",
+    "复购",
+    "运营设计",
+    "方法论"
+  ],
+  "status": "ready-to-use"
+}
